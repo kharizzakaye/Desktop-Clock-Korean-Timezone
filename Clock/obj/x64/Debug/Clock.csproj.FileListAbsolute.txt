@@ -1,0 +1,9 @@
+C:\Users\kharizza\source\repos\Clock\Clock\bin\x64\Debug\Clock.exe.config
+C:\Users\kharizza\source\repos\Clock\Clock\bin\x64\Debug\Clock.exe
+C:\Users\kharizza\source\repos\Clock\Clock\bin\x64\Debug\Clock.pdb
+C:\Users\kharizza\source\repos\Clock\Clock\obj\x64\Debug\Clock.Form1.resources
+C:\Users\kharizza\source\repos\Clock\Clock\obj\x64\Debug\Clock.Properties.Resources.resources
+C:\Users\kharizza\source\repos\Clock\Clock\obj\x64\Debug\Clock.csproj.GenerateResource.cache
+C:\Users\kharizza\source\repos\Clock\Clock\obj\x64\Debug\Clock.csproj.CoreCompileInputs.cache
+C:\Users\kharizza\source\repos\Clock\Clock\obj\x64\Debug\Clock.exe
+C:\Users\kharizza\source\repos\Clock\Clock\obj\x64\Debug\Clock.pdb
